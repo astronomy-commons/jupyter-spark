@@ -40,5 +40,6 @@ GSoC Final
 
 
 Application Prerequisites
-^^^^^^^^^^^^^^^^^^^^^^^^^
+=========================
+
 https://github.com/astronomy-commons/jupyter-spark/wiki/Project-Prerequisites
