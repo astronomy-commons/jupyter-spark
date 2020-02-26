@@ -38,3 +38,7 @@ GSoC Final
 * A user is able to launch and connect to a remote Spark cluster using just browser interactions
 * Code is documented and exists on a GitHub repository under the Astronomy Data Commons organization
 
+
+Application Prerequisites
+^^^^^^^^^^^^^^^^^^^^^^^^^
+https://github.com/astronomy-commons/jupyter-spark/wiki/Project-Prerequisites
