@@ -32,7 +32,9 @@
 
 
 ## Showcasing Prerequisites :
-<a href src = "https://youtu.be/41rFOkmNL-U">Please Click here for the illustrative video</a>
+[Please Click here for the illustrative video!]"https://youtu.be/41rFOkmNL-U"
+
+[![https://youtu.be/41rFOkmNL-U](https://github.com/shreyashk09/JupyterLabSpark/blob/master/images/sample.png)](https://youtu.be/41rFOkmNL-U)
 <br />
 **Time Series:**<br />
 &nbsp;00:00 &nbsp;Pyspark to python environment for python spark programmatic APIs<br />
@@ -137,9 +139,9 @@ Deploying cluster 2 spark application 2<br />
 **Application Server Extension:**
 <br />
 <pre>
-git clone https://github.com/astronomy-commons/jupyter-spark.git
-cd jupyter-spark
-pip install ~/jupyter-spark --pre
+git clone <link to repo>
+cd JupyterSparkExt
+pip install ~/JupyterSparkExt --pre
 jupyter serverextension enable --py spark_ui_tab --sys-prefix
 </pre>
 
