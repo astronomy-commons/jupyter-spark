@@ -1,0 +1,458 @@
+INFO:  2020-03-26 01:35:19,002 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:36:06,388 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:36:07,244 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:36:08,142 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:36:14,152 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4040 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
+INFO:  2020-03-26 01:36:14,413 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap.min.css  
+
+INFO:  2020-03-26 01:36:14,413 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.css  
+
+INFO:  2020-03-26 01:36:14,424 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.css  
+
+INFO:  2020-03-26 01:36:14,424 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/sorttable.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/sorttable.js  
+
+INFO:  2020-03-26 01:36:14,426 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.css  
+
+INFO:  2020-03-26 01:36:14,430 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/jquery-3.4.1.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/jquery-3.4.1.min.js  
+
+INFO:  2020-03-26 01:36:14,480 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.js  
+
+INFO:  2020-03-26 01:36:14,486 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap-tooltip.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap-tooltip.js  
+
+INFO:  2020-03-26 01:36:14,487 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/initialize-tooltips.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/initialize-tooltips.js  
+
+INFO:  2020-03-26 01:36:14,493 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/table.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/table.js  
+
+INFO:  2020-03-26 01:36:14,493 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.js  
+
+INFO:  2020-03-26 01:36:14,493 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/log-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/log-view.js  
+
+INFO:  2020-03-26 01:36:14,534 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.js  
+
+INFO:  2020-03-26 01:36:14,656 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/spark-logo-77x50px-hd.png 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/spark-logo-77x50px-hd.png  
+
+INFO:  2020-03-26 01:36:27,389 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4041 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
+INFO:  2020-03-26 01:36:27,607 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap.min.css  
+
+INFO:  2020-03-26 01:36:27,613 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.css  
+
+INFO:  2020-03-26 01:36:27,617 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.css  
+
+INFO:  2020-03-26 01:36:27,654 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.css  
+
+INFO:  2020-03-26 01:36:27,656 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/sorttable.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/sorttable.js  
+
+INFO:  2020-03-26 01:36:27,658 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/jquery-3.4.1.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/jquery-3.4.1.min.js  
+
+INFO:  2020-03-26 01:36:27,664 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.js  
+
+INFO:  2020-03-26 01:36:27,665 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap-tooltip.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap-tooltip.js  
+
+INFO:  2020-03-26 01:36:27,667 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/initialize-tooltips.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/initialize-tooltips.js  
+
+INFO:  2020-03-26 01:36:27,725 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/table.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/table.js  
+
+INFO:  2020-03-26 01:36:27,729 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.js  
+
+INFO:  2020-03-26 01:36:27,730 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/log-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/log-view.js  
+
+INFO:  2020-03-26 01:36:27,730 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.js  
+
+INFO:  2020-03-26 01:36:27,737 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/spark-logo-77x50px-hd.png 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/spark-logo-77x50px-hd.png  
+
+INFO:  2020-03-26 01:36:33,290 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4042 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
+INFO:  2020-03-26 01:36:33,509 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap.min.css  
+
+INFO:  2020-03-26 01:36:33,509 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.css  
+
+INFO:  2020-03-26 01:36:33,509 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.css  
+
+INFO:  2020-03-26 01:36:33,509 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.css  
+
+INFO:  2020-03-26 01:36:33,513 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/sorttable.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/sorttable.js  
+
+INFO:  2020-03-26 01:36:33,517 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/jquery-3.4.1.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/jquery-3.4.1.min.js  
+
+INFO:  2020-03-26 01:36:33,668 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.js  
+
+INFO:  2020-03-26 01:36:33,677 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap-tooltip.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap-tooltip.js  
+
+INFO:  2020-03-26 01:36:33,677 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/initialize-tooltips.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/initialize-tooltips.js  
+
+INFO:  2020-03-26 01:36:33,677 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/table.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/table.js  
+
+INFO:  2020-03-26 01:36:33,678 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.js  
+
+INFO:  2020-03-26 01:36:33,678 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/log-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/log-view.js  
+
+INFO:  2020-03-26 01:36:33,709 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.js  
+
+INFO:  2020-03-26 01:36:33,725 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/spark-logo-77x50px-hd.png 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/spark-logo-77x50px-hd.png  
+
+INFO:  2020-03-26 01:36:40,907 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4043 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
+INFO:  2020-03-26 01:36:41,162 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap.min.css  
+
+INFO:  2020-03-26 01:36:41,171 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.css  
+
+INFO:  2020-03-26 01:36:41,174 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.css  
+
+INFO:  2020-03-26 01:36:41,175 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.css 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.css  
+
+INFO:  2020-03-26 01:36:41,176 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/sorttable.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/sorttable.js  
+
+INFO:  2020-03-26 01:36:41,176 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/jquery-3.4.1.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/jquery-3.4.1.min.js  
+
+INFO:  2020-03-26 01:36:41,270 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/vis.min.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/vis.min.js  
+
+INFO:  2020-03-26 01:36:41,271 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/bootstrap-tooltip.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/bootstrap-tooltip.js  
+
+INFO:  2020-03-26 01:36:41,271 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/initialize-tooltips.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/initialize-tooltips.js  
+
+INFO:  2020-03-26 01:36:41,271 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/timeline-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/timeline-view.js  
+
+INFO:  2020-03-26 01:36:41,271 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/log-view.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/log-view.js  
+
+INFO:  2020-03-26 01:36:41,347 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/webui.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/webui.js  
+
+INFO:  2020-03-26 01:36:41,347 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/table.js 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/table.js  
+
+INFO:  2020-03-26 01:36:41,348 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitab/static/spark-logo-77x50px-hd.png 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path: static/spark-logo-77x50px-hd.png  
+
+INFO:  2020-03-26 01:36:49,616 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4044 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
+INFO:  2020-03-26 01:36:54,142 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:37:07,284 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:37:33,435 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:37:45,284 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: SparkSummary PASS 
+
+INFO:  2020-03-26 01:37:51,666 - sparkmonitorserver - 58190 - MainProcess -         4741852608 - MainThread
+ GET: 
+ Request uri:/sparkuitaburl0.0.0.0:4040 
+ Port: 4040 
+ Host: 127.0.0.1 
+ request_path:   
+
